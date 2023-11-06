@@ -1,3 +1,2 @@
 # Hangman
-This code is to play the Hangman game in the terminal.
-This code in in Java programming language.
+Java program to play Hangman word game on your computer's terminal
